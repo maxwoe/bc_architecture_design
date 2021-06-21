@@ -1,4 +1,8 @@
-## Architecture Design of Blockchain-Based Applications - Knowledge Sources
+This is the accompanying repository for the following research papers:<br/>
+[Architectural Design Decisions for Blockchain-Based Applications](https://eprints.cs.univie.ac.at/6815/)<br/>
+[Architecture Design of Blockchain-Based Applications](https://eprints.cs.univie.ac.at/6880/)<br/>
+
+## Knowledge Sources
 
 ### Grey Literature
 
